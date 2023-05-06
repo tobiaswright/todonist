@@ -1,0 +1,17 @@
+{
+  "name": "doist-layer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exercises/index.js",
+  "dependencies": {
+    "@doist/todoist-api-typescript": "^2.1.2",
+    "nodemon": "^2.0.19"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
